@@ -1,0 +1,8 @@
+# ignore all directories with the name test
+WareHouseWreckage/Config/
+WareHouseWreckage/DerivedDataCache/
+WareHouseWreckage/Intermediate/
+WareHouseWreckage/Platforms/
+WareHouseWreckage/Saved/
+Final_Game_Build/Engine/Saved
+Final_Game_Build/WareHoseWreckage/Saved
