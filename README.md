@@ -31,4 +31,4 @@ In order to open the unreal project file, make sure you unzip the `Content.zip` 
 
 If you want to see how WareHouseWreckage looks and plays, check out our demo video! It showcases the various features and game play of the game
 
-[`Watch the WareHouseWreckage Demo Video`]: https://youtu.be/4-UyJmtSaMM
+[Watch the WareHouseWreckage Demo Video](https://youtu.be/4-UyJmtSaMM)
