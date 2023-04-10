@@ -5,12 +5,10 @@ Welcome to my first game developed in Unreal Engine 5.1.1! The game is all about
 
 ## Playing the game 
 
-Clone the repo and go to `WareHouseWreckage_Game/Final_Game_Build/` look for WareHouseWreckage application.
-
-Run the appilcation. 
-
-Movement Controls: Use A, S, W, D keys to move the player around the game environment.
-Shooting Controls: To shoot the cannon ball, press the Spacebar. Your ammo count is displayed in the top left corner of the screen.
+* Clone the repo and Unzip the `Final_Game_Build` go to `WareHouseWreckage_Game/Final_Game_Build/` look for WareHouseWreckage application.
+* Run the application. 
+* Movement Controls: Use A, S, W, D keys to move the player around the game environment.
+* Shooting Controls: To shoot the cannon ball, press the Spacebar. Your ammo count is displayed in the top left corner of the screen.
 
 ## Requirements
 
@@ -19,16 +17,18 @@ Shooting Controls: To shoot the cannon ball, press the Spacebar. Your ammo count
 
 ##  Directory structure
 
-### Final_Game_Build 
+### Final_Game_Build.zip
 
-This folder contains the main game build for the Windows platform, along with all the necessary binaries required to run the game.
+Unzip the file, this folder contains the main game build for the Windows platform, along with all the necessary binaries required to run the game.
 
 ### WareHouseWreckage
 
 This folder contains all the game assets, as well as the Unreal project file that contains all the logic and code for the game.
 
+In order to open the unreal project file, make sure you unzip the `Content.zip` file 
+
 ## Demo 
 
-If you want to see how WareHouseWreckage looks and plays, check out our demo video! It showcases the various features and gameplay of the game
+If you want to see how WareHouseWreckage looks and plays, check out our demo video! It showcases the various features and game play of the game
 
-[Watch the WareHouseWreckage Demo Video](file:///WareHouseWreckageDemo.mp4)
+[`Watch the WareHouseWreckage Demo Video`]: https://youtu.be/4-UyJmtSaMM
